@@ -1,0 +1,14 @@
+AUTHOR = 'Hugo Shi'
+CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
+DEFAULT_CATEGORY = 'blog'
+DISQUS_SITENAME = 'hhuuggoo'
+FEED_RSS = 'feeds/all.rss.xml'
+GITHUB_URL = 'https://github.com/hhuuggoo/hhuuggoo.github.com'
+#GOOGLE_ANALYTICS='UA-30070965-1'
+SITEURL = 'http://hhuuggoo.github.com'
+SITENAME = 'Hugo'
+SOCIAL = (('github', 'https://github.com/hhuuggoo'),)
+TAG_FEED = 'feeds/%s.atom.xml'
+TIMEZONE = "America/New_York"
+THEME='tuxlite_tbs'
+#TWITTER_USERNAME = ''
